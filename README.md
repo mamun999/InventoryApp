@@ -1,0 +1,2 @@
+# InventoryApp
+NextJS and MongoDB
